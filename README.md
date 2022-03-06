@@ -11,7 +11,7 @@
 |iwconfig | View all WiFi interfaces on system |
 |iw phy| View information about an interfaces and its capabilities|
 |iw reg get|Check the regulatory domain|
-|iw reg set {region}|Set reg domain to RU |
+|iw reg set {region}|Set reg domain |
 |iw dev {interface} set channel {number}|Setting channel |
 |iwconfig {interface} essid {ssid} | Connect to specific SSID|
 
