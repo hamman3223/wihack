@@ -33,13 +33,13 @@
 
 ## hostapd.conf content is ...
 
-interface={interface}
-driver=nl80211
-ssid={ssid}
-bssid={mac_addr}
-channel={channel}
+    interface={interface}
+    driver=nl80211
+    ssid={ssid}
+    bssid={mac_addr}
+    channel={channel}
 
-# After that just start hostapd service
+## After that just start hostapd service
 
     systemctl start hostapd.service
 ```
