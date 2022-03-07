@@ -46,16 +46,6 @@
 
 <br />
 
-<h2><b>Toolkits/Plugins</b></h2>
-
-|Name|Description|
-|----------|------------|
-|<a href="https://github.com/pentesteracademy/patoolkit"> Patoolkit </a>|Wireshark plugin, which implements the automation WiFi packets analysis|
-|<a href="https://github.com/nodogsplash/nodogsplash">NoDogSplash</a>|Captive Portal|
-|<a href="https://beefproject.com/">BeEF</a>|The Browser Exploitation Framework|
-
-<br />
-
 ## Techniques
 
 |Type of technques|Command|
@@ -64,7 +54,7 @@
 |WiFi HoneyPot|hostapd {config_file}|
 |Beacon flood|mdk4 {interface} b|
 |Remote Sniffing|ssh user@remotehost tcpdump -U -i {interface} -w - \| wireshark -k -i - |
-
+|<a href="https://gist.github.com/jgamblin/da795e571fb5f91f9e86a27f2c2f626f">SSID Dictionary</a>|5000 most of common SSID names from https://wigle.net/stats#ssidstats|
 <br />
 
 ## Security Protocols
