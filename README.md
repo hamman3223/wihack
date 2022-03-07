@@ -58,4 +58,4 @@
 <br />
 
 ## Security Protocols
-- <a href="sec_protocols/wep.md">WEP</a>
+- <a href="https://github.com/YWxtYXoK/wihack/blob/main/sec_protocols/wep/wep.md">WEP</a>
