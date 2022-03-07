@@ -45,12 +45,13 @@
 ```
 <br />
 
-<h2><b>Toolkits/Plugins</b></h2>`
+<h2><b>Toolkits/Plugins</b></h2>
 
 |Name|Description|
 |----------|------------|
 |<a href="https://github.com/pentesteracademy/patoolkit"> Patoolkit </a>|Wireshark plugin, which implements the automation WiFi packets analysis|
 |<a href="https://github.com/nodogsplash/nodogsplash">NoDogSplash</a>|Captive Portal|
+|<a href="https://beefproject.com/">BeEF</a>|The Browser Exploitation Framework|
 
 <br />
 
