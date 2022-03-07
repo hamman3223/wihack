@@ -45,7 +45,7 @@
 ```
 <br />
 
-<h2><b>Toolkits/Plugins</b></h2>`
+<h2><b>Toolkits/Plugins</b></h2>
 
 |Name|Description|
 |----------|------------|
