@@ -23,7 +23,7 @@
 
 
 ```
-## To configure hostapd for WiFi Honeypot firstly we need to install its
+## To configure hostapd for WiFi Honeypot firstly we need to install it
 
     sudo apt install hostapd
 
