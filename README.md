@@ -60,7 +60,6 @@
 ## Security Protocols
 - <a href="https://github.com/YWxtYXoK/wihack/blob/main/sec_protocols/wep/wep.md">WEP</a>
 
-<h2><b>Toolkits/Plugins</b></h2>`
 <h2><b>Toolkits/Plugins</b></h2>
 
 |Name|Description|
